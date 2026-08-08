@@ -4,8 +4,6 @@
 
 Machine Learning / Computer Vision Engineer — models, tools, and the infra to ship them.
 
-🥈 **2nd place / 2245 teams** — [CVPPP 2020 Global Wheat Detection Challenge](https://github.com/h4nyu/TransferDet)
-
 </div>
 
 <br>
