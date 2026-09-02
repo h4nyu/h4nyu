@@ -22,12 +22,12 @@ Machine Learning / Computer Vision Engineer — models, tools, and the infra to 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=h4nyu&count_private=true&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6e6e6&text_color=c9c9c9&icon_color=8b8b8b&border_color=30363d">
-  <img src="https://github-readme-stats.vercel.app/api?username=h4nyu&count_private=true&show_icons=true&hide_border=true&bg_color=ffffff&title_color=24292e&text_color=444444&icon_color=6a6a6a&border_color=e1e4e8" alt="h4nyu's GitHub stats" width="49%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=h4nyu&count_private=true&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6e6e6&text_color=c9c9c9&icon_color=8b8b8b&border_color=30363d">
+  <img src="https://github-stats-extended.vercel.app/api?username=h4nyu&count_private=true&show_icons=true&hide_border=true&bg_color=ffffff&title_color=24292e&text_color=444444&icon_color=6a6a6a&border_color=e1e4e8" alt="h4nyu's GitHub stats" width="49%" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=h4nyu&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6e6e6&text_color=c9c9c9&border_color=30363d">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4nyu&layout=compact&hide_border=true&bg_color=ffffff&title_color=24292e&text_color=444444&border_color=e1e4e8" alt="Top languages" width="45%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=h4nyu&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6e6e6&text_color=c9c9c9&border_color=30363d">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=h4nyu&layout=compact&hide_border=true&bg_color=ffffff&title_color=24292e&text_color=444444&border_color=e1e4e8" alt="Top languages" width="45%" />
 </picture>
 
 <picture>
